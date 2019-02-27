@@ -14,3 +14,5 @@ add_action(
         class_alias( 'Kirki\Control\FontAwesome', 'Kirki_Control_FontAwesome' );
     }
 );
+
+class_alias( 'Kirki\Field\FontAwesome', 'Kirki_Field_FontAwesome' );
